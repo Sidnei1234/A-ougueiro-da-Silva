@@ -8,7 +8,7 @@ background: local;
 }
 p{
 color:blue;
-font-family: 'Courier New', Courier, monospace;
-font-size:large;
-background: fixed;
+font-family: 'Courier New';
+font-size:x-large;
+background: fixed
 }
