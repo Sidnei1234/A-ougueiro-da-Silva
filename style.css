@@ -1,1 +1,14 @@
-
+body{
+    background-color: blue;
+}
+h1{
+color: black;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background: local;
+}
+p{
+color: brown;
+font-family: 'Courier New', Courier, monospace;
+font-size: medium;
+background: fixed;
+}
