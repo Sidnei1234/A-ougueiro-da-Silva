@@ -4,7 +4,7 @@ body{
 h1
 color: black;
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-background: local;
+background::after;
 }
 p{
 color:blue;
