@@ -1,9 +1,8 @@
 body{
     background-color:green;
 }
-h1
-color: black;
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color::after;
+font-family::content;
 background::after;
 }
 p{
