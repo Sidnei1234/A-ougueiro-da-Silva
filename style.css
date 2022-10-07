@@ -1,15 +1,17 @@
 body{
     h1{
-   background-color:blue;
+   color-interpolation-filters;
+   font-size: 50px;
 }
 color::after;
 font-family::content;
 background::after;
+
 }
 p{
 color:blue;
 font-family: 'Courier New';
-font-size: 50px;
+font-size: 40px;
 background: fixed;
 text-align: center;
 }
