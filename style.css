@@ -1,6 +1,6 @@
 body{
     h1{
-   background-color:green;
+   background-color:blue;
 }
 color::after;
 font-family::content;
@@ -9,7 +9,7 @@ background::after;
 p{
 color:blue;
 font-family: 'Courier New';
-font-size: 80px;
+font-size: 50px;
 background: fixed;
 text-align: center;
 }
