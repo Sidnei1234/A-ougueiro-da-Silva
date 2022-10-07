@@ -1,6 +1,6 @@
 body{
     h1{
-   color-interpolation-filters;
+   background-color:blue;
    font-size: 50px;
 }
 color::after;
