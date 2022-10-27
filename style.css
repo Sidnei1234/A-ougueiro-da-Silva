@@ -1,9 +1,9 @@
 body{
-    background-color:green;
+    background-color:red;
     
 }
  h1{
-    color: blue;
+    color: rgb(8, 8, 247);
     font-size:40px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
