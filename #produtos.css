@@ -26,13 +26,13 @@ nav a{
     }
     h1{
         color:red;
-        font-size:center;
+        font-size:30px;
         font-family:'Courier New', Courier, monospace;
-        text-align:30px;
+        text-align:center;
         }
         p{
             color:blue;
             font-family: 'Courier New';
-            font-size: center;
-            text-align: 30px;
+            font-size: 30px;
+            text-align: center;
             }
