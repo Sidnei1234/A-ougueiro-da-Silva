@@ -16,5 +16,7 @@ text-align: center;
 }
 
 #aaa{
-    width:15%
+    width:15%;
+    text-align: end;
+    
 }
